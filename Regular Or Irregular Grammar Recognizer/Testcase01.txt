@@ -1,0 +1,5 @@
+S -> aS
+S -> X
+X -> aaaBC
+B -> $
+C -> b

@@ -1,0 +1,4 @@
+S -> Sa
+S -> X
+XY -> aaa
+Y -> X
